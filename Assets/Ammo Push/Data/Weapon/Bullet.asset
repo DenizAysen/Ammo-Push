@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd0c6036745d2024cb4b2e2f337b4cdc, type: 3}
+  m_Name: Bullet
+  m_EditorClassIdentifier: 
+  WeaponPrefab: {fileID: 6157921806579330885, guid: 8e596c4f023100f408ce14ba73e9ba0b, type: 3}
+  BossLevelWeaponPrefab: {fileID: 2654543680085206907, guid: f175255694fc89a4a820a6e60c37062e, type: 3}
+  Mass: 5
+  Damage: 3
+  WeaponIcon: {fileID: 21300000, guid: cdcc23605e71fb343ab5ef0f9b384cac, type: 3}
+  WeaponType: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0134c3e7d4f8bf428e9fe24b59bcc6d, type: 3}
+  m_Name: Boss Level Tap to Start Animation Settings
+  m_EditorClassIdentifier: 
+  EndValue: {x: 1.1, y: 1.1, z: 1}
+  StartValue: {x: 1, y: 1, z: 1}
+  ScaleTime: 0.5
+  ShrinkTime: 0.5
